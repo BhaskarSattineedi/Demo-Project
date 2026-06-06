@@ -170,7 +170,7 @@
             <div class="absolute bottom-4 left-0 w-full text-center px-8">
                 <p class="text-[9px] text-gray-400 dark:text-gray-600 uppercase tracking-widest">
 
-                    © 2026
+                    © 2027
             </div>
         </div>
     </div>
